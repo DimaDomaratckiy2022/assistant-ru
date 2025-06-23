@@ -18,7 +18,7 @@ from sentence_transformers import SentenceTransformer, util
 
 DB_PATH = "db.txt"
 
-TOKEN = "7882568330:AAF6hYR62drjbFsxdu8JpnEiDFgDgVI5E6g"
+TOKEN = "YOUR_TOKEN"
 
 
 
